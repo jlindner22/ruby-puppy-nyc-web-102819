@@ -16,7 +16,6 @@ end
 
 def self.print_all
   @@all.each{|dogs| puts dogs.name}
- # self.all
 end
 
 def save 
